@@ -1,9 +1,9 @@
 # SUB Cyb508 Research Paper
 
 # Tools
-  LinqPad
-  Sql Server
-  Weka
+. LinqPad
+. Sql Server
+. Weka
   
 # Dataset
   https://github.com/jivoi/awesome-ml-for-cybersecurity#-datasets
